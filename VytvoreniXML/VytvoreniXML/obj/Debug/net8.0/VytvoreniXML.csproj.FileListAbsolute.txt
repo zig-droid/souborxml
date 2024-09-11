@@ -1,0 +1,14 @@
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\bin\Debug\net8.0\VytvoreniXML.exe
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\bin\Debug\net8.0\VytvoreniXML.deps.json
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\bin\Debug\net8.0\VytvoreniXML.runtimeconfig.json
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\bin\Debug\net8.0\VytvoreniXML.dll
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\bin\Debug\net8.0\VytvoreniXML.pdb
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.AssemblyInfoInputs.cache
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.AssemblyInfo.cs
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.csproj.CoreCompileInputs.cache
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.dll
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\refint\VytvoreniXML.dll
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.pdb
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\VytvoreniXML.genruntimeconfig.cache
+C:\Users\jihla\source\repos\WpfApp1\VytvoreniXML\VytvoreniXML\obj\Debug\net8.0\ref\VytvoreniXML.dll
